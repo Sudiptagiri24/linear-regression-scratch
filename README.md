@@ -16,7 +16,7 @@ This project demonstrates how to implement **Linear Regression from scratch usin
   - R² Score
 
 ## Files
-- `diabetes_ols_vs_sklearn.ipynb`: Main notebook with all code and output
+- `linear_regression_scratch.ipynb`: Main notebook with all code and output
 
 ## Requirements
 - numpy  
